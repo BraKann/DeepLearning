@@ -1,2 +1,2 @@
 # DeepLearning
-Repo pour ranger les travaux réaliser dans le cadre de l'ue deep learning
+Repo pour projets de DeepLearning - M2ALMA
